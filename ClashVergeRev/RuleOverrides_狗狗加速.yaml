@@ -1,3 +1,24 @@
-prepend: []
+prepend:
+  # Logitech
+  - 'DOMAIN-SUFFIX,logi.com,DIRECT'
+  - 'DOMAIN-SUFFIX,optionsplus.logitechg.com,DIRECT'
+  - 'DOMAIN,cas-bridge.xethub.hf.co,DIRECT'
+  # UU 加速器
+  - 'DOMAIN-SUFFIX,uu.163.com,狗狗加速.com'
+  # Steam
+  - 'DOMAIN-KEYWORD,steamcloud,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamconnecttest.com,DIRECT'
+  - 'DOMAIN-SUFFIX,steampowered.com,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamcommunity.com,狗狗加速.com'
+  - 'DOMAIN,cm.steampowered.com,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamserver.net,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamcontent.com,DIRECT'
+  - 'DOMAIN-SUFFIX,steamgames.com,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamusercontent.com,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,steamstatic.com,DIRECT'
+  - 'DOMAIN-SUFFIX,akamaihd.net,狗狗加速.com'
+  # Blizzard
+  - 'DOMAIN-SUFFIX,blzstatic.cn,狗狗加速.com'
+  - 'DOMAIN-SUFFIX,battlenet.com.cn,狗狗加速.com'
 append: []
 delete: []
