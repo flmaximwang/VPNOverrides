@@ -3,6 +3,7 @@ prepend:
   - 'DOMAIN-SUFFIX,logi.com,DIRECT'
   - 'DOMAIN-SUFFIX,optionsplus.logitechg.com,DIRECT'
   - 'DOMAIN,cas-bridge.xethub.hf.co,DIRECT'
+  - 'DOMAIN-SUFFIX,flow.logitech.io,DIRECT'
   # UU 加速器
   - 'DOMAIN-SUFFIX,uu.163.com,狗狗加速.com'
   # Steam
