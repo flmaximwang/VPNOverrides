@@ -1,0 +1,5 @@
+proxy-groups:
+  {name: Google, type: select, proxies: [手动选择,自动选择]}
+rules:
+  - DOMAIN-SUFFIX,google.com,Google
+  - DOMAIN-SUFFIX,googleapis.com,Google
