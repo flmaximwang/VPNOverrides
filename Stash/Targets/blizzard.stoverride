@@ -1,0 +1,7 @@
+
+rules:
+  - DOMAIN-SUFFIX,battlenet.com.cn,Haita Cloud
+  - DOMAIN-SUFFIX,battle.net,Haita Cloud
+  - DOMAIN-SUFFIX,blizzard.cn,Haita Cloud
+  - DOMAIN-SUFFIX,blizzard.com,Haita Cloud
+  - DOMAIN-SUFFIX,blzstatic.cn,Haita Cloud

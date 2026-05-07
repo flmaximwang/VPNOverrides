@@ -1,0 +1,3 @@
+proxy-groups:
+  {name: 自动选择, type: url-test, proxies: []}
+  {name: 手动选择, type: select, proxies: []}
